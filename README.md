@@ -38,7 +38,12 @@ A fully functional React Native mobile app designed for vehicle dealerships to g
 ## 🚀 Getting Started (for reviewers)
 
 ```bash
-git clone https://github.com/your-username/vehicle-quotation-task-management.git
+git clone https://github.com/Mukunda-sudo/vehicle-quotation-TaskManagement
 cd vehicle-quotation-task-management
 npm install
 npx react-native run-android
+
+
+🙋 About This Demo
+This project was originally built for real dealership operations.
+This version has been scrubbed for public demo purposes. All sensitive information has been removed or replaced.
